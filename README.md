@@ -35,66 +35,21 @@
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+---  
 
-## 📌 Featured Projects  
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 College Notes App</h3>
-      <p>Upload, view & manage notes with a clean UI.</p>
-      <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>⚡ Task Manager</h3>
-      <p>CRUD tasks with Node.js + MongoDB.</p>
-      <a href="#"><b>🔗 View Project</b></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Backend</h3>
-      <p>REST API, authentication, cart system, and MongoDB models.</p>
-      <a href="https://github.com/Harsh775-Git/Ecommerce"><b>🔗 View Project</b></a>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🎨 Portfolio Website</h3>
-      <p>Your personal modern portfolio website.</p>
-      <a href="#"><b>🔗 View Project</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Harsh775-Git&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Harsh775-Git&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Harsh775-Git&layout=compact&theme=tokyonight" />
-</p>
-
+<h2>📌 Featured Projects</h2> <table> <tr> <td width="50%" valign="top"> <h3>📚 College Notes App</h3> <p>Upload, view & manage notes with a clean UI.</p> <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a> </td> <td width="50%" valign="top"> <h3>⚡ Task Manager</h3> <p>CRUD tasks with Node.js + MongoDB.</p> <a href="#"><b>🔗 View Project</b></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛒 E-Commerce Backend</h3> <p>REST API, authentication, cart system, and MongoDB models.</p> <a href="https://github.com/Harsh775-Git/Ecommerce"><b>🔗 View Project</b></a> </td> <td width="50%" valign="top"> <h3>🎨 Portfolio Website</h3> <p>Your personal modern portfolio website.</p> <a href="#"><b>🔗 View Project</b></a> </td> </tr> </table>
 ---
 
 ## ⚡ Coding Vibes  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshAgarwalAssets/loader/main/cool-coding.gif" width="350" alt="Coding Animation" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/HarshAgarwalAssets/loader/main/cool-coding.gif" width="350" alt="Coding Animation" /> </p>
 
 ---
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-agarwal775"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harsh775official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Harsh775-Git"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harsh-agarwal031"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshagarwalsa123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/harsh31-tech"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
