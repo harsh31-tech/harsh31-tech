@@ -40,8 +40,14 @@
 <h2>📌 Featured Projects</h2> <table> <tr> <td width="50%" valign="top"> <h3>📚 College Notes App</h3> <p>Upload, view & manage notes with a clean UI.</p> <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a> </td> <td width="50%" valign="top"> <h3>⚡ Task Manager</h3> <p>CRUD tasks with Node.js + MongoDB.</p> <a href="#"><b>🔗 View Project</b></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🛒 E-Commerce Backend</h3> <p>REST API, authentication, cart system, and MongoDB models.</p> <a href="https://github.com/Harsh775-Git/Ecommerce"><b>🔗 View Project</b></a> </td> <td width="50%" valign="top"> <h3>🎨 Portfolio Website</h3> <p>Your personal modern portfolio website.</p> <a href="#"><b>🔗 View Project</b></a> </td> </tr> </table>
 ---
 
+## 📊 GitHub Stats <p align="center"> <!-- MAIN STATS (Working Mirror) --> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Gaurav775-Git&show_icons=true&theme=radical" height="165" /> <!-- STREAK STATS (Always stable) --> <img src="https://streak-stats.demolab.com?user=Gaurav775-Git&theme=radical" height="165" /> </p>
+---
+
 ## ⚡ Coding Vibes  
-<p align="center"> <img src="https://raw.githubusercontent.com/HarshAgarwalAssets/loader/main/cool-coding.gif" width="350" alt="Coding Animation" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+</p>
+
 
 ---
 
