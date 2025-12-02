@@ -38,31 +38,32 @@
 ---
 
 ## 📌 Featured Projects  
+
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
+      <h3>📚 College Notes App</h3>
+      <p>Upload, view & manage notes with a clean UI.</p>
+      <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>⚡ Task Manager</h3>
+      <p>CRUD tasks with Node.js + MongoDB.</p>
+      <a href="#"><b>🔗 View Project</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3>🛒 E-Commerce Backend</h3>
       <p>REST API, authentication, cart system, and MongoDB models.</p>
       <a href="https://github.com/Harsh775-Git/Ecommerce"><b>🔗 View Project</b></a>
     </td>
 
-    <td align="center" width="50%">
-      <h3>📚 College Notes App</h3>
-      <p>Upload, view & manage notes with clean UI.</p>
-      <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
+    <td width="50%" valign="top">
       <h3>🎨 Portfolio Website</h3>
       <p>Your personal modern portfolio website.</p>
-      <a href="#"><b>🔗 Live Demo</b></a>
-    </td>
-
-    <td align="center" width="50%">
-      <h3>⚡ Task Manager</h3>
-      <p>CRUD tasks with Node.js + MongoDB.</p>
       <a href="#"><b>🔗 View Project</b></a>
     </td>
   </tr>
