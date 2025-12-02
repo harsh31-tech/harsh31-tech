@@ -1,41 +1,101 @@
-<!-- 🌟 Harsh Agarwal — Complete GitHub Profile README 🌟 -->
-
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | JavaScript | Node.js | MongoDB | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="450"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Making;JavaScript+%7C+Node.js+%7C+MongoDB;Building+Clean+and+Scalable+Apps;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
-<h3 align="center">
-🚀 Aspiring Full-Stack Developer | HTML • CSS • Bootstrap • JavaScript • Node.js • Express • MongoDB • Mongoose
-</h3>
+---
+
+## 👨‍💻 About Me  
+💡 Passionate learner working towards becoming a **full-stack developer**.  
+🌱 Currently exploring **Backend, APIs, MongoDB & System Design basics**.  
+⚙️ I focus on building **fast, responsive, and scalable applications**.  
+🎯 Goal: Master MERN Stack + Start learning Cloud & DevOps soon.  
+🤝 Open for **internships, freelance work, tech collaborations**.  
 
 ---
 
-## 🧠 About Me  
-- 👨‍💻 I love building full-stack web applications  
-- 🌱 Currently learning **Advanced Node.js & Backend architecture**  
-- 💬 Ask me about **JavaScript, DOM, Express, MongoDB, APIs**  
-- ⚡ Fun fact: I break code to rebuild it cleaner 😎  
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🎨 Animated Gradient Banner  
-Save as `assets/banner.svg` and use anywhere:
+## 📌 Featured Projects  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 E-Commerce Backend</h3>
+      <p>REST API, authentication, cart system, and MongoDB models.</p>
+      <a href="https://github.com/Harsh775-Git/Ecommerce"><b>🔗 View Project</b></a>
+    </td>
 
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7b2ff7">
-        <animate attributeName="stop-color" values="#7b2ff7;#2bff88;#ff7b7b;#7b2ff7" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#2bff88">
-        <animate attributeName="stop-color" values="#2bff88;#ff7b7b;#7b2ff7;#2bff88" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#g)" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="36" font-family="Arial" fill="#ffffff">Hi — I'm Harsh Agarwal</text>
-</svg>
+    <td align="center" width="50%">
+      <h3>📚 College Notes App</h3>
+      <p>Upload, view & manage notes with clean UI.</p>
+      <a href="https://github.com/Harsh775-Git/notes-app"><b>🔗 View Project</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Portfolio Website</h3>
+      <p>Your personal modern portfolio website.</p>
+      <a href="#"><b>🔗 Live Demo</b></a>
+    </td>
+
+    <td align="center" width="50%">
+      <h3>⚡ Task Manager</h3>
+      <p>CRUD tasks with Node.js + MongoDB.</p>
+      <a href="#"><b>🔗 View Project</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Harsh775-Git&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Harsh775-Git&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Harsh775-Git&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Coding Vibes  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshAgarwalAssets/loader/main/cool-coding.gif" width="350" alt="Coding Animation" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-agarwal775"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harsh775official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Harsh775-Git"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ From **Harsh Agarwal**
