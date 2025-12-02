@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Harsh Agarwal</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | JavaScript | Node.js | MongoDB | Tech Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | JavaScript | Node.js | Express | MongoDB | Techie </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Making;JavaScript+%7C+Node.js+%7C+MongoDB;Building+Clean+and+Scalable+Apps;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Clean+and+Scalable+Apps;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
 ---
