@@ -1,6 +1,7 @@
-# Hi 👋, I'm Harsh Agarwal
-### Full-Stack Developer | MERN Stack | Backend Engineer
-
+<p align="center">
+  <h1>Hi 👋, I'm Harsh Agarwal</h1>
+  <h3>Full-Stack Developer | MERN Stack | Backend Engineer</h3>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Backend+%26+API+Development;Clean+Architecture+%7C+System+Design;Transforming+Ideas+Into+Reality" />
 </p>
