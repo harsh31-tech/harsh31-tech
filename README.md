@@ -1,6 +1,6 @@
 <!-- PROFESSIONAL BANNER -->
  <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh31-tech/assets/main/Harsh-Agarwal-Banner.png" alt="Harsh Agarwal Banner" width="800"/>
+  <img src="C:\Users\harsh\Downloads\CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Harsh Agarwal Banner" width="800"/>
 </p>
 
 <h1 align="center">Harsh Agarwal</h1>
