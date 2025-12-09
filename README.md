@@ -64,7 +64,7 @@ I am a highly motivated **Full-Stack Developer** passionate about building **per
 <p align="center">
   <!-- General Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=react&hide_border=true" />
-  
+
   <!-- Top Languages -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=react&hide_border=true" />
 </p>
