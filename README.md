@@ -1,7 +1,8 @@
 <!-- PROFESSIONAL BANNER -->
  <p align="center">
-  <img src="C:\Users\harsh\Downloads\CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Harsh Agarwal Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/harsh31-tech/harsh31-tech/main/assets/CODEVENOM%20Fullstack%20Development%20Wallpaper.jpeg" alt="Harsh Agarwal Banner" width="800"/>
 </p>
+
 
 <h1 align="center">Harsh Agarwal</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Backend Engineer</h3>
