@@ -74,10 +74,11 @@ I am a highly motivated **Full-Stack Developer** passionate about building **per
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-agarwal031"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:harshagarwalsa123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com/in/harsh-agarwal031"><img src="https://skillicons.dev/icons?i=linkedin" width="45" style="margin-right:15px;"/></a>
+  <a href="mailto:harshagarwalsa123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" style="margin-right:15px;"/></a>
   <a href="https://github.com/harsh31-tech"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
+
 
 ---
 
