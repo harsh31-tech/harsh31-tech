@@ -1,11 +1,5 @@
-<!-- PROFESSIONAL BANNER -->
- <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh31-tech/harsh31-tech/main/assets/CODEVENOM%20Fullstack%20Development%20Wallpaper.jpeg" alt="Harsh Agarwal Banner" width="800" height="300"/>
-</p>
-
-
-<h1 align="center">Harsh Agarwal</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Backend Engineer</h3>
+# Hi 👋, I'm Harsh Agarwal
+### Full-Stack Developer | MERN Stack | Backend Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Backend+%26+API+Development;Clean+Architecture+%7C+System+Design;Transforming+Ideas+Into+Reality" />
