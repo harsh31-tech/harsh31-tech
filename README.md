@@ -27,48 +27,24 @@ I am a highly motivated **Full-Stack Developer** passionate about building **per
 ### **Tech Stack (Icon Grid)**
 <table align="center">
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap
-</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML5</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS3</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap</td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
 </tr>
 </table>
 
@@ -77,17 +53,17 @@ I am a highly motivated **Full-Stack Developer** passionate about building **per
 ## 📂 Featured Projects
 | Project | Description | Link |
 |---------|------------|------|
-| 📚 **College Notes App** | Upload & manage study materials | 🔗 https://github.com/Harsh775-Git/notes-app |
+| 📚 **College Notes App** | Upload & manage study materials | 🔗 https://github.com/harsh31-tech/notes-app |
 | ⚡ **Task Manager** | CRUD-based productivity app | 🔗 Coming Soon |
-| 🛒 **E-Commerce Backend** | Auth, cart & order system with REST API | 🔗 https://github.com/Harsh775-Git/Ecommerce |
+| 🛒 **E-Commerce Backend** | Auth, cart & order system with REST API | 🔗 https://github.com/harsh31-tech/Ecommerce |
 | 🎨 **Portfolio Website** | Modern responsive portfolio | 🔗 Coming Soon |
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harsh775-Git&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh775-Git&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh31-tech&theme=react&hide_border=true" />
 </p>
 
 ---
@@ -96,7 +72,7 @@ I am a highly motivated **Full-Stack Developer** passionate about building **per
 <p align="center">
   <a href="https://linkedin.com/in/harsh-agarwal031"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="mailto:harshagarwalsa123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://github.com/harsh775-git"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://github.com/harsh31-tech"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
