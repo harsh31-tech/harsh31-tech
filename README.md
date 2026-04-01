@@ -25,18 +25,19 @@ I'm a **Full-Stack Developer** passionate about engineering **performant, scalab
 const harsh = {
   role:       "Full-Stack Developer (MERN)",
   location:   "India 🇮🇳",
-  learning:   ["Cloud", "DevOps", "System Design"],
+  learning:   ["Cloud & DevOps", "System Design", "Scalable Architecture"],
   available:  ["Internships", "Freelance", "Collaboration"],
-  goal:       "MERN + Cloud Developer",
-  funFact:    "I debug with console.log and I'm not ashamed 😄"
+  goals:      ["MERN Stack Engineer", "DevOps Engineer", "System Design Expert"],
+  mindset:    "Write code that scales, systems that survive, solutions that matter"
 };
 ```
 
-- 🌱 Currently exploring **Cloud & DevOps fundamentals**
+- 🌱 Currently diving deep into **Cloud Infrastructure & DevOps practices**
 - 🎨 Newly skilled in **React.js & Tailwind CSS**
-- 💡 Strong interest in **Backend, APIs & System Architecture**
+- 💡 Strong interest in **Backend Engineering, REST APIs & System Architecture**
+- 🏗️ Studying **Distributed Systems & High-Level System Design**
 - 💼 Open to **internships, freelance & open-source collaboration**
-- 🎯 Goal: Become a proficient **MERN + Cloud Engineer**
+- 🎯 Goals: **Production-grade MERN Engineer → DevOps Engineer → System Design Expert**
 
 ---
 
@@ -159,10 +160,10 @@ const harsh = {
 
 ---
 
-## 📈 Contribution Activity
+## 🟩 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh31-tech&theme=react-dark&bg_color=0d1117&color=00E5FF&line=0057FF&point=ffffff&hide_border=true" />
+  <img src="https://ghchart.rshah.org/00E5FF/harsh31-tech" alt="Harsh Agarwal's GitHub Contribution Chart" />
 </div>
 
 ---
