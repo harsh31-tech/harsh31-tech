@@ -141,12 +141,12 @@ const harsh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&ring_color=0057FF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh31-tech&theme=react&hide_border=true&background=0d1117&stroke=00E5FF&ring=0057FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img src="https://streak-stats.demolab.com?user=harsh31-tech&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -156,14 +156,6 @@ const harsh = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</div>
-
----
-
-## 🟩 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/harsh31-tech" alt="Harsh Agarwal's GitHub Contribution Chart" />
 </div>
 
 ---
