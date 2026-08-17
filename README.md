@@ -127,9 +127,7 @@ const harsh = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</div>
+<div align="center"> <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" /> </div>
 
 ---
 
