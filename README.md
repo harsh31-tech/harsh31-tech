@@ -90,9 +90,7 @@ const harsh = {
 | # | Project | Description | Tech | Link |
 |---|---------|-------------|------|------|
 | 🤖 | **ServerFlow** | Visual backend builder — design a backend visually across a Frontend ↔ Server ↔ MCP ↔ LLM pipeline | Node.js, React, React Flow, MCP | 🚧 *add repo link* |
-| 📚 | **College Notes App** | Upload & manage study materials for college students | Node.js, MongoDB | [GitHub](https://github.com/harsh31-tech/notes-app) |
-| 🛒 | **E-Commerce Backend** | Full auth, cart & order system with REST API | Node.js, Express, MongoDB | [GitHub](https://github.com/harsh31-tech/Ecommerce) |
-| 📖 | **AKTU Study Companion** | RAG-based Q&A assistant over AKTU course material | Python, RAG, LLM | 🚧 *in progress* |
+🏠	StayScape	Full-stack Airbnb-inspired accommodation listing platform — create, edit, update & manage property listings through a clean, responsive interface, built to explore real-world backend architecture and REST APIs	Node.js, MongoDB	🚧 add repo link
 
 > 💡 *More projects in progress — stay tuned!*
 
