@@ -123,13 +123,9 @@ const harsh = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
-</div>
 
----
+
 
 ## 🌐 Let's Connect
 
@@ -140,7 +136,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just havi
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-agarwal031)
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshagarwalsa123@gmail.com)
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshagarwal31.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh31-tech)
 
 </div>
