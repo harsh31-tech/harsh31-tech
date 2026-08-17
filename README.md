@@ -90,7 +90,7 @@ const harsh = {
 | # | Project | Description | Tech | Link |
 |---|---------|-------------|------|------|
 | 🤖 | **ServerFlow** | Visual backend builder — design a backend visually across a Frontend ↔ Server ↔ MCP ↔ LLM pipeline | Node.js, React, React Flow, MCP | 🚧 *add repo link* |
-🏠	StayScape	Full-stack Airbnb-inspired accommodation listing platform — create, edit, update & manage property listings through a clean, responsive interface, built to explore real-world backend architecture and REST APIs	Node.js, MongoDB	🚧 add repo link
+| 🏠 | **StayScape** | Full-stack Airbnb-inspired accommodation listing platform — create, edit, update & manage property listings through a clean, responsive interface, built to explore real-world backend architecture and REST APIs | Node.js, MongoDB | 🚧 *add repo link* |
 
 > 💡 *More projects in progress — stay tuned!*
 
@@ -125,7 +125,9 @@ const harsh = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center"> <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" /> </div>
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harsh31-tech&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</div>
 
 ---
 
