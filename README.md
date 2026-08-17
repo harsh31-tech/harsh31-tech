@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0057FF&height=200&section=header&text=Harsh%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58&descColor=d0f0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0057FF&height=200&section=header&text=Harsh%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20MERN%20Stack%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58&descColor=d0f0ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=560&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Backend+%26+REST+API+Development+%F0%9F%94%A7;Clean+Architecture+%7C+System+Design+%F0%9F%8F%97%EF%B8%8F;Transforming+Ideas+Into+Reality+%F0%9F%92%A1;MERN+Stack+%7C+React+%7C+Tailwind+CSS+%F0%9F%8E%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+AI-Native+Backend+Systems+%F0%9F%A4%96;MERN+Stack+%7C+Node.js+%7C+React.js+%F0%9F%9A%80;Learning+Model+Context+Protocol+(MCP)+%F0%9F%94%8C;Currently+Building%3A+ServerFlow+%F0%9F%8F%97%EF%B8%8F;Turning+Ideas+Into+Production+Systems+%F0%9F%92%A1" />
 
 <br/>
 
@@ -19,25 +19,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** passionate about engineering **performant, scalable, and production-ready applications**. I love turning complex problems into clean, elegant solutions — from pixel-perfect frontends to robust backend systems.
+I'm a **Computer Science (AI) undergraduate** and **full-stack / AI application engineer in the making**, focused on shipping **performant, production-ready systems** — from MERN backends to AI-agent architectures that talk to real tools.
 
 ```javascript
 const harsh = {
-  role:       "Full-Stack Developer (MERN)",
-  location:   "India 🇮🇳",
-  learning:   ["Cloud & DevOps", "System Design", "Scalable Architecture"],
-  available:  ["Internships", "Freelance", "Collaboration"],
-  goals:      ["MERN Stack Engineer", "DevOps Engineer", "System Design Expert"],
-  mindset:    "Write code that scales, systems that survive, solutions that matter"
+  role:        "AI Application Engineer | Full-Stack Developer (MERN)",
+  education:   "B.Tech CS (AI), AKTU",
+  location:    "India 🇮🇳",
+  building:    "ServerFlow — a Visual Backend Builder (Frontend ↔ Server ↔ MCP ↔ LLM)",
+  learning:    ["Model Context Protocol (MCP)", "System Design", "Cloud & DevOps"],
+  stack:       ["Node.js", "Express", "React.js", "MongoDB", "PostgreSQL"],
+  available:   ["Internships", "Freelance", "Collaboration"],
+  mindset:     "Write code that scales, systems that survive, solutions that matter"
 };
 ```
 
-- 🌱 Currently diving deep into **Cloud Infrastructure & DevOps practices**
-- 🎨 Newly skilled in **React.js & Tailwind CSS**
-- 💡 Strong interest in **Backend Engineering, REST APIs & System Architecture**
-- 🏗️ Studying **Distributed Systems & High-Level System Design**
-- 💼 Open to **internships, freelance & open-source collaboration**
-- 🎯 Goals: **Production-grade MERN Engineer → DevOps Engineer → System Design Expert**
+- 🏗️ Currently building **ServerFlow** — a visual backend builder connecting **Frontend ↔ Server ↔ MCP ↔ LLM**
+- 🔌 Learning **Model Context Protocol (MCP)** in Python and applying it across upcoming projects
+- 🎯 Targeting an **AI Application Engineer / Full-Stack Developer** role — internship by end of 2026
+- 🧠 Exploring **RAG pipelines**, starting with an AKTU study-companion project
+- 💼 Open to **internships, freelance work & open-source collaboration**
 
 ---
 
@@ -47,53 +48,25 @@ const harsh = {
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="45"/><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="45"/><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="45"/><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="45"/><br>
-      <sub><b>React.js ✨</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
-      <sub><b>Tailwind CSS ✨</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>
-      <sub><b>Bootstrap</b></sub>
-    </td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="45"/><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="45"/><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="45"/><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><sub><b>React.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br><sub><b>Bootstrap</b></sub></td>
   </tr>
 </table>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, AI & Database
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=express" width="45"/><br>
-      <sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="45"/><br>
-      <sub><b>Postman</b></sub>
-    </td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="45"/><br><sub><b>Express.js</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45"/><br><sub><b>Python ✨</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><sub><b>Postman</b></sub></td>
   </tr>
 </table>
 
@@ -101,26 +74,14 @@ const harsh = {
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="45"/><br>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
-      <sub><b>VS Code</b></sub>
-    </td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub><b>Git</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub><b>VS Code</b></sub></td>
   </tr>
 </table>
 
-> ✨ *Recently added to my stack — actively building projects with these!*
+> ✨ *Python — newly added, currently being used to learn and build with MCP.*
 
 ---
 
@@ -128,10 +89,10 @@ const harsh = {
 
 | # | Project | Description | Tech | Link |
 |---|---------|-------------|------|------|
+| 🤖 | **ServerFlow** | Visual backend builder — design a backend visually across a Frontend ↔ Server ↔ MCP ↔ LLM pipeline | Node.js, React, React Flow, MCP | 🚧 *add repo link* |
 | 📚 | **College Notes App** | Upload & manage study materials for college students | Node.js, MongoDB | [GitHub](https://github.com/harsh31-tech/notes-app) |
 | 🛒 | **E-Commerce Backend** | Full auth, cart & order system with REST API | Node.js, Express, MongoDB | [GitHub](https://github.com/harsh31-tech/Ecommerce) |
-| ⚡ | **Task Manager** | CRUD-based productivity app | MERN Stack | 🚧 Coming Soon |
-| 🎨 | **Portfolio Website** | Modern responsive personal portfolio | React, Tailwind CSS | 🚧 Coming Soon |
+| 📖 | **AKTU Study Companion** | RAG-based Q&A assistant over AKTU course material | Python, RAG, LLM | 🚧 *in progress* |
 
 > 💡 *More projects in progress — stay tuned!*
 
@@ -141,14 +102,26 @@ const harsh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=harsh31-tech&theme=tokyonight&hide_border=true" />
 
 </div>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh31-tech/harsh31-tech/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh31-tech/harsh31-tech/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/harsh31-tech/harsh31-tech/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚙️ This animation is generated by a GitHub Action that runs in your own repo, so it never depends on a third-party server. Setup steps are below.
 
 ---
 
