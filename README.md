@@ -101,8 +101,8 @@ const harsh = {
 <div align="center">
 
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="170"/>
+<img src="https://harsh-github-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="170"/>
+<img src="https://harsh-github-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="170"/>
 
 
 <br/>
