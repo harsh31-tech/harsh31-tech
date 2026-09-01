@@ -100,9 +100,7 @@ const harsh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh31-tech&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=harsh31-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=harsh31-tech&theme=tokyonight&hide_border=true" />
