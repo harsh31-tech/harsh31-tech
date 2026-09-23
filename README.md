@@ -141,6 +141,10 @@ I'm always open to discussing new ideas, collaborating on projects, or just havi
 [![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshagarwal31.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh31-tech)
 
+Portfolio (image)
+LinkedIn (image)
+Gmail (image)
+GitHub (image)
 </div>
 
 ---
